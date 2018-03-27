@@ -1,4 +1,4 @@
-package com.example.studente.myapplication;
+package com.example.studente.Calculator;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
