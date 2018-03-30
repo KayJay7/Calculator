@@ -16,4 +16,7 @@
     <string name="_8">8</string>
     <string name="_9">9</string>
     <string name="_sum">+</string>
+    <string name="ob">(</string>
+    <string name="cb">)</string>
+    <string name="expr">expr</string>
 </resources>
