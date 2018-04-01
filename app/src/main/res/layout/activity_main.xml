@@ -41,7 +41,7 @@
 
     <Button
         android:id="@+id/button2"
-        style="@style/Widget.AppCompat.Button.Borderless"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:onClick="cipherPressed"
@@ -74,7 +74,7 @@
 
     <Button
         android:id="@+id/button5"
-        style="@style/Widget.AppCompat.Button.Borderless"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:onClick="cipherPressed"
@@ -85,7 +85,7 @@
 
     <Button
         android:id="@+id/button6"
-        style="@style/Widget.AppCompat.Button.Borderless"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:onClick="cipherPressed"
@@ -96,7 +96,7 @@
 
     <Button
         android:id="@+id/button7"
-        style="@style/Widget.AppCompat.Button.Borderless"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:onClick="cipherPressed"
@@ -118,7 +118,7 @@
 
     <Button
         android:id="@+id/button9"
-        style="@style/Widget.AppCompat.Button.Borderless"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:onClick="cipherPressed"
@@ -129,7 +129,7 @@
 
     <Button
         android:id="@+id/button10"
-        style="@style/Widget.AppCompat.Button.Borderless"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:onClick="cipherPressed"
@@ -140,7 +140,7 @@
 
     <Button
         android:id="@+id/button11"
-        style="@style/Widget.AppCompat.Button.Borderless"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:onClick="cipherPressed"
@@ -163,7 +163,7 @@
 
     <Button
         android:id="@+id/button13"
-        style="@style/Widget.AppCompat.Button.Borderless"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:onClick="cipherPressed"
@@ -174,7 +174,7 @@
 
     <Button
         android:id="@+id/button14"
-        style="@style/Widget.AppCompat.Button.Borderless"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:onClick="cipherPressed"
@@ -185,7 +185,7 @@
 
     <Button
         android:id="@+id/button15"
-        style="@style/Widget.AppCompat.Button.Borderless"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:onClick="cipherPressed"
