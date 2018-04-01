@@ -43,7 +43,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void bkspPressed(View view) {
-        expr = expr.substring(0, expr.length() - 1);
-        tv.setText(expr);
+        if(expr.length()>0) {
+            expr = expr.substring(0, expr.length() - 1);
+            tv.setText(expr);
+        }
     }
 }
